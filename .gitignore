@@ -12,7 +12,7 @@ yarn-error.*
 .DS_Store
 *.pem
 
-
+/favicon_io
 *.tsbuildinfo
 
 /ios
